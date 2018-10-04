@@ -81,4 +81,4 @@ for i in range(lastday):
     writer.writerow([daystr, timestr])
 f.close()
 
-print("complete! Check 'otokin.csv'.")
+print("complete! Check 'otokin.csv'")
